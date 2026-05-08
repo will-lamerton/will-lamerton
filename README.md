@@ -3,7 +3,7 @@
 I'm a entrepreneur and software engineer from the UK. I'm currently working on:
 
 - [Nano Collective](https://nanocollective.org) - Building powerful AI tools for the community. Privacy-respecting, local-first and open for all.
-- [Ava Technologies](https://avatechnologies.org) - AI consultancy for the enterprise.
+- [Ava Technologies](https://avatechnologies.org) - AI consultancy for enterprise.
 - [That Group Company](https://thatgroupco.com) - Software solutions for construction and agriculture.
 
 If you want to see what I'm doing, visit my [Linktree](https://linkt.ree/willlamerton). Also, say "Hi", I love connecting with likeminded people!
